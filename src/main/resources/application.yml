@@ -1,0 +1,5 @@
+okta:
+  oauth2:
+    client-id: ${APP_OKTA_OAUTH2_CLIENT_ID}
+    client-secret: ${APP_OKTA_OAUTH2_CLIENT_SECRET}
+    issuer: https://${APP_OKTA_OAUTH2_ISSUER}/
